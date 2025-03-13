@@ -1,8 +1,11 @@
 *.asset eol=lf linguist-language=yaml merge=unityyamlmerge
 *.fbx diff=lfs filter=lfs merge=lfs -text
+*.hlsl text
 *.json eol=lf linguist-language=json
 *.mat eol=lf linguist-language=yaml merge=unityyamlmerge
 *.meta eol=lf linguist-language=yaml merge=unityyamlmerge
 *.png diff=lfs filter=lfs merge=lfs -text
+*.shadergraph eol=lf linguist-language=json
+*.shadersubgraph eol=lf linguist-language=json
 *.txt eol=lf text
 *.unity eol=lf linguist-language=yaml merge=unityyamlmerge
