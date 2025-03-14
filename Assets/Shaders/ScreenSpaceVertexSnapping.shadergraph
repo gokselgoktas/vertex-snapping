@@ -305,10 +305,10 @@
     "m_Guid": {
         "m_GuidSerialized": "d345d8cd-bd24-4555-a26a-1e7c6638d819"
     },
-    "m_Name": "Accuracy",
+    "m_Name": "ScreenSpaceQuantizationFactor",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Accuracy",
-    "m_DefaultReferenceName": "_Accuracy",
+    "m_RefNameGeneratedByDisplayName": "ScreenSpaceQuantizationFactor",
+    "m_DefaultReferenceName": "_ScreenSpaceQuantizationFactor",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -569,7 +569,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "59f5fc9281ec4803976e9f417b9a6657",
     "m_Id": 0,
-    "m_DisplayName": "BaseMap",
+    "m_DisplayName": "Texture",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -935,10 +935,10 @@
     "m_Guid": {
         "m_GuidSerialized": "56285440-f75d-40e2-8c54-4b936df866ba"
     },
-    "m_Name": "BaseMap",
+    "m_Name": "Texture",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "BaseMap",
-    "m_DefaultReferenceName": "_BaseMap",
+    "m_RefNameGeneratedByDisplayName": "Texture",
+    "m_DefaultReferenceName": "_Texture",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
